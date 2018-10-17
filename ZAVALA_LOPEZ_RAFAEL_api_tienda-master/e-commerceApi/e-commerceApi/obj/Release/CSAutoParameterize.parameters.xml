@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-e-Shop-20170511095226.mdf;Initial Catalog=aspnet-e-Shop-20170511095226;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\pedro\\Desktop\\API_RAFA\\API_SCM\\API_TIENDA\\ZAVALA_LOPEZ_RAFAEL_api_tienda\\e-commerceApi\\e-commerceApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="e_commerceApi.Models.e_commerceApiContext-Web.config Connection String" description="e_commerceApi.Models.e_commerceApiContext Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="e_commerceApi.Models.e_commerceApiContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\pedro\\Desktop\\API_RAFA\\API_SCM\\API_TIENDA\\ZAVALA_LOPEZ_RAFAEL_api_tienda\\e-commerceApi\\e-commerceApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='e_commerceApi.Models.e_commerceApiContext']/@connectionString" />
+  </parameter>
+</parameters>

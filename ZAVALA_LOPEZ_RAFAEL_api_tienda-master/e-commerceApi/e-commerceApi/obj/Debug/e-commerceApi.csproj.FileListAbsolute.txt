@@ -1,0 +1,402 @@
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\csc.exe
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\vbc.exe
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\VBCSCompiler.exe
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\e-commerceApi.dll.config
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\e-commerceApi.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\e-commerceApi.pdb
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Antlr3.Runtime.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\EntityFramework.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\EntityFramework.SqlServer.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Google.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Newtonsoft.Json.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Owin.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Net.Http.Formatting.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Helpers.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Http.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Http.Owin.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Http.WebHost.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Mvc.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Optimization.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Razor.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Razor.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\WebGrease.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Newtonsoft.Json.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Net.Http.Formatting.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Helpers.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Http.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Http.WebHost.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Mvc.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Optimization.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Razor.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Razor.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Antlr3.Runtime.pdb
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\EntityFramework.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\EntityFramework.SqlServer.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Google.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\System.Web.Http.Owin.xml
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Web.Helpers.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Web.Http.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Web.Mvc.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Web.Optimization.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Web.Razor.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Web.WebPages.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\EntityFramework.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\bin\es\System.Web.Http.Owin.resources.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\obj\Debug\e-commerceApi.dll
+c:\users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\obj\Debug\e-commerceApi.pdb
+C:\Users\pedro\onedrive\documentos\visual studio 2015\Projects\e-commerceApi\e-commerceApi\obj\Debug\e-commerceApi.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\csc.exe
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\vbc.exe
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\e-commerceApi.dll.config
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\e-commerceApi.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\e-commerceApi.pdb
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Antlr3.Runtime.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\EntityFramework.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\EntityFramework.SqlServer.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.Edm.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.OData.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.Services.Client.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Newtonsoft.Json.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Owin.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Net.Http.Formatting.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Spatial.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Helpers.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.Owin.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.WebHost.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Mvc.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Optimization.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Razor.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\WebGrease.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.Edm.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.OData.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.Services.Client.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Newtonsoft.Json.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Spatial.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Net.Http.Formatting.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Helpers.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.WebHost.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Mvc.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Optimization.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Razor.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Antlr3.Runtime.pdb
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\EntityFramework.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\EntityFramework.SqlServer.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.Owin.xml
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\de\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\fr\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\it\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ja\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ko\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ru\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Http.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\EntityFramework.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\obj\Debug\e-commerceApi.dll
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\obj\Debug\e-commerceApi.pdb
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\csc.exe
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\vbc.exe
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\e-commerceApi.dll.config
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\e-commerceApi.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\e-commerceApi.pdb
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Antlr3.Runtime.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\EntityFramework.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\EntityFramework.SqlServer.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.Edm.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.OData.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.Services.Client.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Newtonsoft.Json.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Owin.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Net.Http.Formatting.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Spatial.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Helpers.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.Owin.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.WebHost.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Mvc.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Optimization.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Razor.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\WebGrease.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.Edm.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.OData.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Data.Services.Client.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Newtonsoft.Json.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Spatial.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Net.Http.Formatting.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Helpers.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.WebHost.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Mvc.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Optimization.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Razor.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Antlr3.Runtime.pdb
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\EntityFramework.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\EntityFramework.SqlServer.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\System.Web.Http.Owin.xml
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\de\System.Spatial.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Spatial.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\fr\System.Spatial.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\it\System.Spatial.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ja\System.Spatial.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ko\System.Spatial.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\ru\System.Spatial.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Http.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\EntityFramework.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\obj\Debug\e-commerceApi.csprojResolveAssemblyReference.cache
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\obj\Debug\e-commerceApi.dll
+C:\Users\YARATZY\Documents\Yeratzy\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\obj\Debug\e-commerceApi.pdb
+C:\Users\pedro\Desktop\API_RAFA\API_SCM\API_TIENDA\ZAVALA_LOPEZ_RAFAEL_api_tienda\e-commerceApi\e-commerceApi\bin\WhatsAppApi.dll
